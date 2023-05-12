@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @galloppinggryphon
+- 👋 Hi, I’m Bjornar Egede-Nissen
 - 🌱 I’m currently studying Computer Software Engineering at Centennial College, Toronto, Canada.
